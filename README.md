@@ -1,5 +1,6 @@
+<h1>GitHub Marcus</h1>
 
-#My name is Aurelio Marcus, living in Brazil and working TI an Administration.
+<h2>My name is Aurelio Marcus, living in Brazil and working TI an Administration.</h2>
 
 <h2>⚙ <b>GitHub Analytics</b><h2>
     <br>
