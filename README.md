@@ -9,9 +9,10 @@ My name is Aurelio Marcus, living in Brazil and working TI an Administration.
 
 <details>
   <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary>
-  ![Marcus Estatisticas](https://github-readme-stats.vercel.app/api?username=MarcusAurelio&show_icons=true&theme=radical)
+  
   <br>
   Clique aqhi para expandir !
+  ![Marcus Estatisticas](https://github-readme-stats.vercel.app/api?username=MarcusAurelio&show_icons=true&theme=radical)
 </details>
 
 <!--
