@@ -12,9 +12,9 @@ My name is Aurelio Marcus, living in Brazil and working TI an Administration.
   
   <br>
   Clique aqhi para expandir !
-  ![Marcus Estatisticas](https://github-readme-stats.vercel.app/api?username=MarcusAurelio&show_icons=true&theme=radical)
+  
 </details>
-
+![Marcus Estatisticas](https://github-readme-stats.vercel.app/api?username=MarcusAurelio&show_icons=true&theme=radical)
 <!--
 Here are some ideas to get you started:
 
