@@ -8,7 +8,7 @@
 <details>
   <summary> <b> Clique para ver mais! </b> <i>(clique para expandir!)</i> </summary>
   
-  <br>
+ 
   <h2 align="center">⚙ <b>GitHub Analytics</b><h2>
     <br>
     <p align="center">
@@ -18,7 +18,7 @@
   
 </details>
     
-    </br>
+</br>
   
 <img src="https://user-images.githubusercontent.com/84048306/121829926-3ae44380-cc9a-11eb-9083-a04a5f0baf76.gif" min-width="400px" max-width="400px" width="450px" align="center" >  
 
