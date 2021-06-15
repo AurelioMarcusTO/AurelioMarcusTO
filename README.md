@@ -1,8 +1,8 @@
-<h1>GitHub Marcus</h1>
+<h1 align="center">GitHub Marcus</h1>
 
-<h2>My name is Aurelio Marcus, living in Brazil and working TI an Administration.</h2>
+<h2 align="center">My name is Aurelio Marcus, living in Brazil and working TI an Administration.</h2>
 
-<h2>⚙ <b>GitHub Analytics</b><h2>
+<h2 align="center">⚙ <b>GitHub Analytics</b><h2>
     <br>
     <p align="left">
         <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AurelioMarcusTO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false"/>
