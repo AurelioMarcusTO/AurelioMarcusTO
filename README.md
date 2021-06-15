@@ -6,9 +6,9 @@
 
 </br>
 
-<div>
+<div align="center">
 
-<h2 align="center">⚙ <b>GitHub Analytics</b><h2>
+<h2>⚙ <b>GitHub Analytics</b><h2>
     <br>
     <p align="center">
         <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AurelioMarcusTO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false"/>
@@ -16,9 +16,9 @@
       </p>
 </div>
     
-<div>   
+<div align="center">   
 
-<h2 align="center">Linguagens usadas</h2>    
+<h2>Linguagens usadas</h2>    
     
     
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
