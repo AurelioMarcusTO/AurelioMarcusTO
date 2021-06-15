@@ -4,7 +4,7 @@
 
 My name is Aurelio Marcus, living in Brazil and working TI an Administration.
 
-![Marcus GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Marcus GitHub stats](https://github-readme-stats.vercel.app/api?username=AurelioMarcusTO&show_icons=true&theme=radical)
     
 
 
