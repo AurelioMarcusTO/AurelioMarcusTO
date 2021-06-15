@@ -2,12 +2,9 @@
 
 
 
-<p>My name is Aurelio Marcus, living in Brazil and working TI an Administration.</p>
+My name is Aurelio Marcus, living in Brazil and working TI an Administration.
 
-<h2>⚙ <b>GitHub Analytics</b><h2>
-    <br>
-    
-        ![Marcus GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Marcus GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
     
 
 
