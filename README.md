@@ -16,8 +16,8 @@
         <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AurelioMarcusTO&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=false"/>
     </p>
     
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  
+    <p>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+    </p>
 </details>
     
 </br>
