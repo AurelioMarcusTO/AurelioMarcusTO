@@ -1,5 +1,8 @@
-<h1 align="center">🔗 GitHub Marcus</h1>
+<head>
 
+    <h1 align="center">🔗 GitHub Marcus</h1>
+
+</head>
 </br>
 
 <h2 align="center">My name is Aurelio Marcus, living in Brazil and working TI and Administration.</h2>
