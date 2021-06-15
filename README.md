@@ -12,8 +12,10 @@
         <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AurelioMarcusTO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false"/>
         <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AurelioMarcusTO&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=false"/>
       </p>
+    
 
-    <h2>Linguagens usadas</h2>    
+<h2>Linguagens usadas</h2>    
+    
     
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
