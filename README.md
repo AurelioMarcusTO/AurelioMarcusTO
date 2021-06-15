@@ -5,8 +5,10 @@
 </div>
 </br>
 
-<h2 align="center">My name is Aurelio Marcus, living in Brazil and working TI and Administration.</h2>
-
+<div align="center" background-color="gray">
+<h2>My name is Aurelio Marcus, living in Brazil and working TI and Administration.</h2>
+</div>
+    
 </br>
 
 <div align="center">
