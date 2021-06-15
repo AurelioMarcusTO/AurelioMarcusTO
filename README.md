@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 
-**AurelioMarcusTO/AurelioMarcusTO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Aurelio Marcus, living in Brazil and working TI an Administration.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 <details>
   <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary>
