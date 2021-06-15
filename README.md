@@ -1,6 +1,6 @@
 
 
-<h1 align="center">🔗 GitHub Marcus</h1>
+<h1 align="center" text-shadow="2px">🔗 GitHub Marcus Aurelio</h1>
 
 
 </br>
