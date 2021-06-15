@@ -1,6 +1,6 @@
 <h1 align="center">GitHub Marcus</h1>
 </br>
-#
+
 <h2 align="center">My name is Aurelio Marcus, living in Brazil and working TI an Administration.</h2>
 
 </br>
@@ -16,6 +16,7 @@
 
 <img src="https://user-images.githubusercontent.com/84048306/121829926-3ae44380-cc9a-11eb-9083-a04a5f0baf76.gif" min-width="400px" max-width="400px" width="450px" align="center" >
 
+</br>
 </br>
 
 <details>
