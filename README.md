@@ -4,8 +4,7 @@
 
 <p>My name is Aurelio Marcus, living in Brazil and working TI an Administration.</p>
 
-![Marcus's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcusAurelio&show_icons=true&theme=radical)
-
+<img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Marcus&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false"/>
 
 
 <img src="https://user-images.githubusercontent.com/84048306/121829926-3ae44380-cc9a-11eb-9083-a04a5f0baf76.gif" min-width="400px" max-width="400px" width="450px" align="center" >
