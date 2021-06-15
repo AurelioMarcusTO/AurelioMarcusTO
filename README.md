@@ -21,13 +21,6 @@
 
 </br>  
   
-<details>
-  <summary> <b> Clique para ver mais! </b> <i>(clique para expandir!)</i> </summary>
-  
- Aqui vai um texto alternativo !
-  
-</details>
-    
   <section align="center"> 
   <h2 align="center">Contatos</h2>
 
@@ -37,7 +30,12 @@
     </section>    
  </br>
   
+<details>
+  <summary> <b> Clique para ver mais! </b> <i>(clique para expandir!)</i> </summary>
   
+ Aqui vai um texto alternativo !
+  
+</details>  
  
 <!--
 Here are some ideas to get you started:
