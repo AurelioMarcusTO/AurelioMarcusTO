@@ -1,8 +1,8 @@
+<div align="center">
 
+<h1  text-shadow="2px" font-family="Arial">🔗 GitHub Marcus Aurelio</h1>
 
-<h1 align="center" text-shadow="2px">🔗 GitHub Marcus Aurelio</h1>
-
-
+</div>
 </br>
 
 <h2 align="center">My name is Aurelio Marcus, living in Brazil and working TI and Administration.</h2>
