@@ -4,7 +4,7 @@
 
 <p>My name is Aurelio Marcus, living in Brazil and working TI an Administration.</p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcusAurelio&show_icons=true&theme=radical)
+![Marcus's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 
 
