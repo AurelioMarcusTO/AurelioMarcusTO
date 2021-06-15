@@ -5,12 +5,7 @@
 
 </br>
 
-<h2 align="center">⚙ <b>GitHub Analytics</b><h2>
-    <br>
-    <p align="center">
-        <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AurelioMarcusTO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false"/>
-        <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AurelioMarcusTO&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=false"/>
-    </p>
+
     
 </br>
 
@@ -23,7 +18,12 @@
   <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary>
   
   <br>
-  Clique aqhi para expandir !
+  <h2 align="center">⚙ <b>GitHub Analytics</b><h2>
+    <br>
+    <p align="center">
+        <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AurelioMarcusTO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false"/>
+        <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AurelioMarcusTO&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=false"/>
+    </p>
   
 </details>
 
