@@ -15,7 +15,7 @@
 </br>
 
 <details>
-  <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary>
+  <summary> <b> Clique aqui para expandir! </b> <i>(clique para expandir!)</i> </summary>
   
   <br>
   <h2 align="center">⚙ <b>GitHub Analytics</b><h2>
