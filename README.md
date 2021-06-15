@@ -5,6 +5,13 @@
 
 <p>Sera que agora esta aparecendo na tela</p>
 
+<details>
+  <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary>
+  
+  <br>
+  Clique aqhi para expandir !
+</details>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
