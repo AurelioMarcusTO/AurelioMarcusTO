@@ -45,7 +45,8 @@
 <details>
   <summary> <b> Clique para ver mais! </b> <i>(clique para expandir!)</i> </summary>
   
- Aqui vai um texto alternativo !
+ Vou disponibilizar arquivos e programas para estudos e para uso profissional.
+ Agradeço a visita !
   
 </details>  
  
