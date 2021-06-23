@@ -43,7 +43,7 @@
  </br>
   
 <details>
-  <summary> <b> Clique para ver mais! </b> <i>(clique para expandir!)</i> </summary>
+  <summary> <b> Clique para expandir ! </b> <i></i> </summary>
   
  Vou disponibilizar arquivos e programas para estudos e para uso profissional.
  Agradeço a visita !
